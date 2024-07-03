@@ -1,0 +1,22 @@
+https://blog.csdn.net/qq_37359757/article/details/108800148  vscode配置@路径提示,并解决vue文件内失效问题
+https://vant-contrib.gitee.io/vant/v2/#/zh-CN/   vant 官网
+https://element.eleme.cn/#/zh-CN/ elementui 中文官网
+https://ant-design.antgroup.com/index-cn  antdesign 中文官网
+https://blog.csdn.net/javaboyweng/article/details/   安装vue-devtools 插件
+https://blog.csdn.net/weixin_49848050/article/details/127208179  vuex刷新数据丢失 vuex-persist
+https://tinypng.com/   图片压缩网站
+ios 不兼容http
+https://map.heifahaizei.com/doc/overlay/marker.html vue3百度地图组件
+https://soullyoko.github.io/vue-tianditu/#%E5%85%A8%E5%B1%80%E5%BC%95%E5%85%A5 vue3天地图组件
+https://github.com/GoodCoder666/GoogleTranslate_IPFinder 谷歌翻译中文
+https://blog.csdn.net/qq_40875789/article/details/133835527  vue列表盒子滚动过度动画
+https://developers.weixin.qq.com/doc/offiaccount/OA_Web_Apps/Wechat_webpage_authorization.html uniapp 公众号网页 授权获取用户信息
+https://developer.mozilla.org/zh-CN/  css 属性调试网
+https://ppchart.com/#/ vue Echarts 参考案例
+https://www.isqqw.com/ Echarts 参考案例2
+https://www.yishuzi.cn/ css 字体库网
+https://animista.net/play/entrances/roll-in/roll-in-left css 盒子文字动效网
+https://ai.ywzxkj.com/charyGpt 4.0 免费网站
+https://www.npmjs.com/package/vue-web-screen-shot vue-web-screen-shot 前端类似微信截图插件
+https://blog.csdn.net/MISS_zhang_0110/article/details/135387748  yarn add recordrtc js屏幕录制插件
+https://zhuanlan.zhihu.com/p/677917087 前端面试题
